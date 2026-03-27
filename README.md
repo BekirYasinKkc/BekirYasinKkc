@@ -1,1 +1,17 @@
+# Bekir Yasin Kökcü
 
+Unity Game & App Developer | C# & Python  
+Building games, tools & systems | BYK Studios
+
+## 🚀 Projects
+- 🎮 Games: https://bykgames.itch.io
+- 📱 Apps: https://play.google.com/store/apps/developer?id=BYK+Studios&hl=de_AT
+
+## 🛠 Skills
+- Unity (C#)
+- Python
+- Game Development
+
+## 🌐 Links
+- GitHub: https://github.com/BekirYasinKkc
+- Instagram: https://www.instagram.com/bekir_kkc_/
