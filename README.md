@@ -11,7 +11,7 @@ Building games, tools & systems | BYK Studios
 - Unity (C#)
 - Python
 - Game Development
-- Blender Modelling
+- Blender Modeling
 
 ## 🌐 Links
 - GitHub: https://github.com/BekirYasinKkc
