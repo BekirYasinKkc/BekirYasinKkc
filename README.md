@@ -12,7 +12,7 @@ Building games, tools & systems | BYK Studios
 - Python
 - Game Development
 - Blender Modeling
-- Arduino
+- Arduino & Esp32
 
 ## 🌐 Links
 - GitHub: https://github.com/BekirYasinKkc
