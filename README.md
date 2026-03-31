@@ -12,6 +12,7 @@ Building games, tools & systems | BYK Studios
 - Python
 - Game Development
 - Blender Modeling
+- Arduino
 
 ## 🌐 Links
 - GitHub: https://github.com/BekirYasinKkc
