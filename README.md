@@ -10,7 +10,6 @@ Building games, tools & systems | BYK Studios
 ## 🛠 Skills
 - Unity (C#) – Game & Application Development
 - Python
-- Game Development
 - Blender Modeling
 - Arduino & Esp32
 - Game Engine Development (C++, DirectX 11)
