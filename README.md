@@ -13,7 +13,7 @@ Building games, tools & systems | BYK Studios
 - Game Development
 - Blender Modeling
 - Arduino & Esp32
-- C++ 
+- Game Engine Development with C++ (.NET 8 / .NET 10)
 
 ## 🌐 Links
 - GitHub: https://github.com/BekirYasinKkc
