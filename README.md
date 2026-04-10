@@ -8,7 +8,7 @@ Building games, tools & systems | BYK Studios
 - 📱  Play Store: https://play.google.com/store/apps/developer?id=BYK+Studios&hl=de_AT
 
 ## 🛠 Skills
-- Unity (C#)
+- Unity (C#) – Game & Application Development
 - Python
 - Game Development
 - Blender Modeling
