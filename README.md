@@ -3,7 +3,6 @@
 Unity Game & App Developer | C# & Python  
 Building games, tools & systems | BYK Studios
 
-
 ## 🚀 Projects
 - 🎮Itch.io: https://bykgames.itch.io
 - 📱  Play Store: https://play.google.com/store/apps/developer?id=BYK+Studios&hl=de_AT
